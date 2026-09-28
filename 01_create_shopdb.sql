@@ -1,0 +1,1 @@
+SELECT name AS FileGroupName FROM sys.filegroups;
